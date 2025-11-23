@@ -40,10 +40,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/santosh.git
+git clone https://github.com/santoshkrsah/santosh-portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd santosh-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -52,7 +52,7 @@ npm install
 npm start or npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+Now open [http://localhost:3000]or http://localhost:5173/ (http://localhost:3000) in your browser 🚀
 
 ---
 
@@ -60,8 +60,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [sant@gmail.com](mailto:santosh@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/c7b293](https://www.linkedin.com/santosh/)
+* 📧 **Email:** [info@santoshkr.in](mailto:info@santoshkr.in)
+* 💼 **LinkedIn:** [linkedin.com/in/c7b293](https://www.linkedin.com/in/santoshkrsah/)
 
 ---
 
