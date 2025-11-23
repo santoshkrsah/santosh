@@ -1,13 +1,13 @@
 # 💻 Santosh Kr — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+**Welcome to my personal portfolio** — a modern, dynamic website built with React.js, Framer Motion, and clean, contemporary UI design.
+Here, you can explore my work, projects, skills, and the journey that drives me as a developer passionate about AI, Machine Learning, and Web Technologies.
 
-🌐 **Website:** [[santosh-Portfolio]](https://santosh.netlify.app/)
+🌐 **Check out my website:** [santoshkr.in](https://santoshkr.in/)
+
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/santosh8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/asantosh" />
+<img width="1552" height="925" alt="Screenshot 2025-11-23 at 11 20 58 PM" src="https://github.com/user-attachments/assets/1799cc53-360f-432c-aa6e-9f736fd03b4f" />
+<img width="1552" height="925" alt="Screenshot 2025-11-23 at 11 21 12 PM" src="https://github.com/user-attachments/assets/b7319424-a6d1-498d-80b8-85cfdc30ff57" />
 ---
 
 ## 🚀 Features
@@ -30,7 +30,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 | **Animation**       | Framer Motion                            |
 | **Contact Form**    | EmailJS                                  |
 | **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+| **Deployment**      | Dedicated server / Vercel / Netlify                         |
 
 ---
 
@@ -49,10 +49,10 @@ cd santosh-portfolio
 npm install
 
 # 4️⃣ Run development server
-npm start or npm run dev
+npm start or npm run dev or npx serve dist
 ```
 
-Now open [http://localhost:3000]or http://localhost:5173/ (http://localhost:3000) in your browser 🚀
+Now open 'localhost' in your browser 🚀
 
 ---
 
@@ -66,9 +66,9 @@ If you’d like to collaborate or just say hi 👋, feel free to reach out!
 ---
 
 ## 🌟 Deployment
+Seamlessly deployed on Vercel, ensuring continuous integration and ultra-fast global CDN delivery.
+Every push to the `main` or `master` branch automatically triggers a fresh build and deployment — keeping the site always up-to-date.
 
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---
 
