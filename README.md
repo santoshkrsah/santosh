@@ -1,4 +1,4 @@
-# 💻 Santosh Kr — Portfolio Website
+# 🌐 Santosh Kr — My Website
 **Welcome to my personal portfolio** — a modern, dynamic website built with React.js, Framer Motion, and clean, contemporary UI design.
 Here, you can explore my work, projects, skills, and the journey that drives me as a developer passionate about AI, Machine Learning, and Web Technologies.
 
@@ -50,6 +50,9 @@ npm install
 
 # 4️⃣ Run development server
 npm start or npm run dev or npx serve dist
+
+# 5️⃣ Build the project for online hosting 
+npm run build
 ```
 
 Now open 'localhost' in your browser 🚀
