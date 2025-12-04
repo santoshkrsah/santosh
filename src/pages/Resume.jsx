@@ -23,7 +23,7 @@ export default function Resume() {
           transition={{ delay: 0.2 }}
           style={{ fontSize: 28, color: "#00b4ff", marginBottom: 12 }}
         >
-          📄 Resume
+          📝 Resume
         </motion.h2>
 
         <motion.p
@@ -32,7 +32,7 @@ export default function Resume() {
           transition={{ delay: 0.3 }}
           style={{ color: "#aaa", marginBottom: 25 }}
         >
-          A quick glance at my journey.
+          A small glimpse into my journey. ✨
         </motion.p>
 
         {/* Profile Header */}
@@ -251,7 +251,7 @@ export default function Resume() {
           style={{
             display: "inline-block",
             marginTop: 20,
-            background: "#00b4ff",
+            background: "#0a58deff",
             color: "#fff",
             padding: "10px 22px",
             borderRadius: 8,
@@ -260,7 +260,7 @@ export default function Resume() {
             letterSpacing: 0.3,
           }}
         >
-          ⬇️ Download Resume
+        👉  Download Resume
         </motion.a>
 
 
