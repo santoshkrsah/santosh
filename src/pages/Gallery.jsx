@@ -14,7 +14,7 @@ const IMAGES = {
       id: 2,
       caption:
         "Took a weekend off the grid — came back with new ideas and a lighter mind. 💡",
-      photos: ["/gallery/workplace.jpg", "/gallery/workplace2.jpg"],
+      photos: ["/gallery-pic/workplace.jpg", "/gallery/workplace2.jpg"],
     },
   ],
   projects: [
