@@ -77,9 +77,7 @@ Every push to the `main` or `master` branch automatically triggers a fresh build
 
 ### 🏁 License
 
-This project is fully open-source and distributed under the [MIT License](LICENSE).
-
-You’re welcome to fork, use, modify, and build upon it freely ⭐
+You’re welcome to use, modify, and build upon it freely ⭐
 
 ---
 
