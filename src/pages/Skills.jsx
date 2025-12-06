@@ -9,23 +9,23 @@ const SKILLS = [
   { name: "Java", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
   { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
   { name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
-  { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-  { name: "React", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+  /*{ name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+  { name: "React", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },*/
   { name: "MySQL", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
-  { name: "MongoDB", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
+  /*{ name: "MongoDB", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },*/
   { name: "Git", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
   /*{ name: "TensorFlow", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" },
   { name: "PyTorch", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" },
   { name: "OpenCV", logo: "https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" },*/
   { name: "seleniium", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" },
   { name: "postman", logo : "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
-  { name: "ruby", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" },
-  { name: "rails", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" },
+  /*{ name: "ruby", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" },
+  { name: "rails", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" }, */
   { name: "figma", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
   { name: "jenkins", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" },
-  { name: "docker", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" },
+  /*{ name: "docker", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" },
   { name: "kubernetes", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" },
-  /*{ name: "linux", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" },
+  { name: "linux", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" },
   { name: "aws", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" },*/
   { name: "azure", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" },
   { name: "gcp", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" },
@@ -33,19 +33,19 @@ const SKILLS = [
   { name: "restassured", logo: "https://avatars.githubusercontent.com/u/12774170?s=200&v=4" },
   { name: "maven", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" },
   { name: "github", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-  /*{ name: "browserstack", logo: "https://d1.awsstatic.com/partner-network/logos/browserstack-logo.8f3b6f198f4f4f6f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f.0b7e1b2b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8.png" },
-  { name: "testng", logo: "https://testng.org/testng-10/images/testng-logo.png" },*/
+  { name: "browserstack", logo: "https://cdn.worldvectorlogo.com/logos/browserstack.svg" },
+  /*{ name: "testng", logo: "https://testng.org/testng-10/images/testng-logo.png" },*/
   { name: "cucumber", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" },
   { name: "jira", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" },
   { name: "salseforce", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" },
-  /*{ name: "testrail", logo: "https://d2r1yp2w7bby2u.cloudfront.net/wp-content/uploads/2020/03/testrail-logo-blue-300x100.png" },
-  { name: "amplitude", logo: "https://miro.medium.com/v2/resize:fit:1400/1*o3bX0Z4b7r6H8yT6lXvU1A.png" },
-  { name: "devops", logo: "https://cdn-icons-png.flaticon.com/512/919/919825.png" },
+  { name: "testrail", logo: "https://www.testrail.com/wp-content/uploads/2023/03/testrail-icon.svg" },
+  { name: "amplitude", logo: "https://drive.google.com/u/0/drive-viewer/AKGpihY3n7JMrDSQ9x2l5ql5zMZx80h9DNGokDNlKJvdTLvgjQh01vaBy8s5A-M05c9QTBFftLgnhTAYkakHB_zCcGTdtB_VZbuuHJA=s2560?auditContext=forDisplay" },
+  { name: "devops", logo: "https://cdn.worldvectorlogo.com/logos/devops-2.svg" },
   { name: "firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
-  { namee: "rencher", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-plain.svg" },
-  { name: "tosca", logo: "https://www.tricentis.com/wp-content/uploads/2020/06/tosca-logo.png" },
-  { name: "jmeter", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" },
-  { name: "agile", logo: "https://cdn-icons-png.flaticon.com/512/919/919825.png" },*/
+  { name: "rancher", logo: "https://cdn.worldvectorlogo.com/logos/rancher.svg" },
+  /*{ name: "tosca", logo: "https://www.tricentis.com/wp-content/uploads/2020/06/tosca-logo.png" },*/
+  { name: "jmeter", logo: "https://cdn.worldvectorlogo.com/logos/jmeter.svg" },
+  /*{ name: "agile", logo: "https://cdn.worldvectorlogo.com/logos/agile-software.svg" },*/
 ];
 
 const ROWS = [
